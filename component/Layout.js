@@ -1,7 +1,9 @@
+// eslint-disable-next-line react/display-name
 import React from 'react'
 import Footer from './Footer'
 import Nav from './Nav'
 import Head from 'next/head'
+
 
 const Layout = ({children}) => {
   return (
